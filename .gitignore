@@ -10,6 +10,7 @@ build/
 *.out
 
 # ── CMake 生成文件 ──
+.cache/*
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake

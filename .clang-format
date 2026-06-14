@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+Language: C
+IndentWidth: 4
+ColumnLimit: 120
+PointerAlignment: Right
+BreakBeforeBraces: Allman
+BreakBeforeBinaryOperators: None
+AllowShortFunctionsOnASingleLine: None
+SortIncludes: true
+
